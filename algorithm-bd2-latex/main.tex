@@ -1,0 +1,69 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T2A]{fontenc}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\usepackage{geometry}
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{listings}
+\usepackage{enumitem}
+
+\lstdefinelanguage{Pseudo}{
+    morekeywords={procedure,for,while,if,else,return,do,then,end,create,mark,enqueue,dequeue},
+    sensitive=false,
+    morecomment=[l]{//},
+    morestring=[b]"
+}
+
+\lstset{
+    language=Pseudo,
+    basicstyle=\ttfamily\small,
+    keywordstyle=\color{blue}\bfseries,
+    commentstyle=\color{green!50!black}\itshape,
+    backgroundcolor=\color{gray!10},
+    frame=single,
+    numbers=left,
+    numberstyle=\tiny,
+    breaklines=true
+}
+
+\geometry{margin=1in}
+\setlength{\parskip}{0.8em}
+\setlength{\parindent}{0pt}
+
+\newcommand{\mytitle}{Алгоритмын зохиомж бие даалт 2}
+\newcommand{\myauthor}{Г. Алтай \\ Оюутны код: B222270028 \\ Хичээл: Алгоритмын зохиомж (F.CSM301)}
+\newcommand{\mydescription}{Энэхүү бие даалтаар оновчлолын алгоритмуудын (\textbf{Greedy} болон \textbf{Dynamic Programming}) үндсэн санааг ойлгож, бичвэрийг жигдлэх даалгаврыг гүйцэтгэх болно.}
+
+\title{\mytitle}
+\author{\myauthor}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{center}
+    \vspace{0.5in} 
+    \rule{\textwidth}{1pt} 
+    \vspace{0.25in}
+    \textbf{\Large Даалгаврын зорилго}
+    \vspace{0.1in}
+    \parbox{0.8\textwidth}{\centering
+        \mydescription
+    }
+    \vspace{0.25in}
+    \rule{\textwidth}{0.5pt} 
+\end{center}
+
+\newpage
+\renewcommand{\contentsname}{Агуулга} 
+\tableofcontents
+\newpage
+
+
+\end{document}
