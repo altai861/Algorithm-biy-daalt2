@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2025/dev/Debian) (preloaded format=xelatex 2025.10.25)  30 NOV 2025 18:06
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2025/dev/Debian) (preloaded format=xelatex 2025.10.25)  4 DEC 2025 23:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -582,7 +582,109 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 
 
-[2] (./main.aux)
+[2]
+Overfull \hbox (20.81271pt too wide) in paragraph at lines 70--71
+\TU/TimesNewRoman(0)/m/n/10.95 хэрэглээг харьцуулан дүгнэхэд оршино. Бичвэр жиг
+длэх (text justification) нь өгөгдсөн үгийн дарааллыг
+ []
+
+
+Overfull \hbox (14.132pt too wide) in paragraph at lines 80--81
+[]\TU/TimesNewRoman(0)/m/n/10.95 Зорилго нь өгөгдсөн үгсийг мөрүүдэд хувааж, мө
+р бүрийн сул зайг (\TU/TimesNewRoman(0)/m/it/10.95 slack\TU/TimesNewRoman(0)/m/
+n/10.95 ) оновчтой түгээж, бичвэрийг
+ []
+
+
+Overfull \hbox (2.78745pt too wide) in paragraph at lines 85--86
+[]\TU/TimesNewRoman(0)/b/n/10.95 Greedy \TU/TimesNewRoman(0)/m/n/10.95 — мөрөнд
+ аль болох олон үг багтааж, орхигдсон сул зайг тухайн мөрөнд л засварлана. 
+ []
+
+
+Overfull \hbox (6.2519pt too wide) in paragraph at lines 93--94
+\TU/TimesNewRoman(0)/m/n/10.95 дараагийн мөрөнд шилждэг. Мөрлөлт бүрийг тухайн 
+мөчид хамгийн боломжит хувилбараар сонгож
+ []
+
+
+
+[3]
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 133.
+
+Missing character: There is no ≤ (U+2264) in font [lmmono10-regular]:!
+
+
+[4]
+Overfull \hbox (27.3392pt too wide) in paragraph at lines 175--176
+\TU/TimesNewRoman(0)/m/n/10.95 (backtracking) хийх шаардлагагүй. Иймээс алгорит
+мын ажлын хэмжээ үгийн тоотой шууд пропорционал
+ []
+
+
+Overfull \hbox (13.46939pt too wide) in paragraph at lines 181--182
+[]\TU/TimesNewRoman(0)/m/n/10.95 Энэ нь өгөгдлийн хэмжээ өсөх тусам алгоритм зө
+вхөн нэг л удаагийн шугаман скан хийхээс хэтрэхгүй
+ []
+
+
+Overfull \hbox (7.2838pt too wide) in paragraph at lines 183--184
+\TU/TimesNewRoman(0)/m/n/10.95 завсрын хувьсагчдыг хадгалах шаардлагатай. Эдгээ
+р хувьсагчид нь оролтын хэмжээнээс үл хамаарч
+ []
+
+
+
+[5]
+Overfull \hbox (10.50356pt too wide) in paragraph at lines 200--201
+[]\TU/TimesNewRoman(0)/m/n/10.95 DP нь локал хамгийн сайн шийдлүүдийг дараалалд
+ зүгээр нэмэх бус, бүх мөрлөлтийн хувилбаруудыг
+ []
+
+
+Overfull \hbox (4.36467pt too wide) in paragraph at lines 212--213
+[]\TU/TimesNewRoman(0)/m/n/10.95 Эцсийн индексээс буцаан шугаман байдлаар dp ма
+ссивыг бөглөн, хамгийн бага нийт өртөгтэй
+ []
+
+
+Overfull \hbox (14.5883pt too wide) in paragraph at lines 216--217
+[]\TU/TimesNewRoman(0)/m/n/10.95 DP алгоритм нь Greedy-тэй харьцуулахад илүү уд
+аан ажилладаг ($\OML/cmm/m/it/10.95 O\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 n[
+]\OT1/cmr/m/n/10.95 )$\TU/TimesNewRoman(0)/m/n/10.95 ), мөн санах ой их шаардаг
+ддаг
+ []
+
+
+
+[6]
+Missing character: There is no ≤ (U+2264) in font [lmmono10-regular]:!
+
+
+[7]
+Overfull \hbox (3.51651pt too wide) in paragraph at lines 320--321
+[]\TU/TimesNewRoman(0)/m/n/10.95 Ийм учраас DP алгоритм нь маш оновчтой бичвэр 
+гаргах чадвартай боловч том хэмжээний текстэнд
+ []
+
+
+Overfull \hbox (14.33432pt too wide) in paragraph at lines 320--321
+\TU/TimesNewRoman(0)/m/n/10.95 Greedy-тэй харьцуулахад илүү их хугацаа болон са
+нах ой шаарддаг. Тиймээс практикт том хэмжээний
+ []
+
+
+
+[8]
+Overfull \hbox (8.4066pt too wide) in paragraph at lines 351--352
+\TU/TimesNewRoman(0)/m/n/10.95 Энэхүү даалгавраар Greedy болон Dynamic Programm
+ing аргуудын ялгаа тодорхой харагдлаа. Greedy
+ []
+
+
+
+[9] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -592,15 +694,15 @@ L3 programming layer <2025-01-18>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: 47D005DF8125311063DFC2AD35A1DA59;4174.
  ) 
 Here is how much of TeX's memory you used:
- 15049 strings out of 475106
- 280167 string characters out of 5766693
- 710257 words of memory out of 5000000
- 37804 multiletter control sequences out of 15000+600000
- 566358 words of font info for 82 fonts, out of 8000000 for 9000
+ 15153 strings out of 475106
+ 281628 string characters out of 5766693
+ 1020746 words of memory out of 5000000
+ 37899 multiletter control sequences out of 15000+600000
+ 566574 words of font info for 89 fonts, out of 8000000 for 9000
  682 hyphenation exceptions out of 8191
- 79i,6n,93p,541b,326s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,7n,93p,541b,1760s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (2 pages).
+Output written on main.pdf (9 pages).
