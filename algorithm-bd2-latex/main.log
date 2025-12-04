@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2025/dev/Debian) (preloaded format=xelatex 2025.10.25)  4 DEC 2025 23:30
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2025/dev/Debian) (preloaded format=xelatex 2025.10.25)  5 DEC 2025 07:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -659,8 +659,6 @@ Overfull \hbox (14.5883pt too wide) in paragraph at lines 216--217
 
 
 [6]
-Missing character: There is no ≤ (U+2264) in font [lmmono10-regular]:!
-
 
 [7]
 Overfull \hbox (3.51651pt too wide) in paragraph at lines 320--321
@@ -699,7 +697,7 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  15153 strings out of 475106
  281628 string characters out of 5766693
- 1020746 words of memory out of 5000000
+ 1021746 words of memory out of 5000000
  37899 multiletter control sequences out of 15000+600000
  566574 words of font info for 89 fonts, out of 8000000 for 9000
  682 hyphenation exceptions out of 8191

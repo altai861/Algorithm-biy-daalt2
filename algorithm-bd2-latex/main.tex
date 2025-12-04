@@ -247,7 +247,7 @@ procedure JUSTIFY_DP(words, maxWidth):
         for j = i to n-1:
             if j > i:
                 length = length + 1 + lens[j]
-            if length ≤ maxWidth:
+            if length <= maxWidth:
                 slack = maxWidth - length
                 if j == n-1:
                     cost[i][j] = 0
